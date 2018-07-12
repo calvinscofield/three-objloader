@@ -1,0 +1,18 @@
+{
+  "name": "@calvinscofield/three-objloader",
+  "version": "1.0.1",
+  "description": "Threejs objloader plugin, ES6.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "three",
+    "objloader"
+  ],
+  "author": "calvinscofield@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.94.0"
+  }
+}
