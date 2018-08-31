@@ -16,4 +16,6 @@ loader.load(
 	console.log(error, 'An error happened')
   }
 )
+It is no longer maintained. Please follow git@github.com:calvinscofield/three-objloader.git
+npm i @calvinscofield/three-loaders -S
 ```
