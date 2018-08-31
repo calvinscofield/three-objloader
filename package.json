@@ -1,6 +1,6 @@
 {
   "name": "@calvinscofield/three-objloader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Threejs objloader plugin, ES6.",
   "main": "index.js",
   "scripts": {
